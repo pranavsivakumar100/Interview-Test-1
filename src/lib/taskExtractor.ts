@@ -1,4 +1,4 @@
-import { ExtractedTask, VoiceEntry } from './types.js';
+import { ExtractedTask } from './types.js';
 
 // Patterns for task detection
 const actionVerbs = [

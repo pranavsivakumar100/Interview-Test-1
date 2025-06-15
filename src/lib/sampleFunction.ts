@@ -1,5 +1,5 @@
-import { VoiceEntry, ProcessedResult, ExtractedTask } from './types.js'
 import { extractTasksFromText } from './taskExtractor.js'
+import { VoiceEntry, ProcessedResult, ExtractedTask } from './types.js'
 
 /**
  * processEntries
